@@ -3,7 +3,7 @@
     Created on : 16-Jan-2014, 13:28:32
     Author     : USER
 --%>
-
+<title>Login successful</title>
 <%
     if ((session.getAttribute("userid") == null) || (session.getAttribute("userid") == "")) {
 %>
